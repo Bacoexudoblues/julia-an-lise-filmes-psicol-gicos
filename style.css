@@ -1,5 +1,9 @@
 body{
-color:wheat;
+color:#ebcf9c;
 background:darkred;
 
+}
+
+header{
+border-bottom:solid 3x #ebcf9c;
 }

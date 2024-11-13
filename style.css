@@ -3,6 +3,7 @@ color:#ebcf9c;
 background:darkred;
 margin:0px;
 font-optical-sizing: auto;
+margin-bottom: 100px;
 }
 
 header{
@@ -13,7 +14,7 @@ color: #ebcf9c;
 font-family: "Cinzel", serif;
 }
 
-section{
+.chamada{
 background: goldenrod;
 padding-bottom: 80px;
 padding-top: 80px;
@@ -34,4 +35,19 @@ p{
 }
 img{
     height: 200px;
+}
+
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.categoria-filme img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-filme img:hover {
+    opacity: 1.0;
+    border: 1px solid #ebcf9c;
 }

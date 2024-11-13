@@ -1,9 +1,26 @@
 body{
 color:#ebcf9c;
 background:darkred;
-
+margin:0px;
+font-optical-sizing: auto;
 }
 
 header{
-border-bottom:solid 3x #ebcf9c;
+border-bottom:solid 3px #ebcf9c;
+padding: 20px;
+font-size: 35px;
+color: #ebcf9c;
+font-family: "Cinzel", serif;
+}
+
+section{
+background: goldenrod;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
 }
